@@ -1,0 +1,80 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Rehan%20Khan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fresher&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=440&lines=Fresher+%7C+Aspiring+Developer;Java+%26+Python+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mirabbasali007&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Mirabbasali007?label=Followers&style=flat-square&color=7dd3fc)
+
+</div>
+
+---
+
+### 🧑‍💻 Who I Am
+
+```typescript
+const rehanKhan = {
+  title: "Fresher",
+  stack: ["Java", "Python"],
+  launchedProjects: [], // none yet — new to the game, building soon
+  certifications: [],
+  status: "Learning and looking for opportunities to grow",
+  openTo: "Connecting, collaborating, and learning from the community",
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=java,py&theme=dark)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirabbasali007&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirabbasali007&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mirabbasali007&theme=nord&hide_border=true&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mirabbasali007&no-frame=true&no-bg=true&theme=nord" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirabbasali007&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-rehankhanrk007777%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehankhanrk007777@gmail.com)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer" width="100%"/>
